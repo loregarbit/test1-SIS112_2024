@@ -1,1 +1,1 @@
-lo que se sube al examen, sopa
+lo que se sube al examen
