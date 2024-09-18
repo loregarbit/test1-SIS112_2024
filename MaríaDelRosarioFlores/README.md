@@ -1,1 +1,1 @@
- hhh
+Este es el respositorio para dar el primer examen de programación II.
