@@ -14,7 +14,6 @@ Crea un programa que permita trabajar con una **matriz de números enteros de 3x
 - Usa una matriz (lista de listas) de 3x3.
 - Implementa las siguientes funciones en archivos separados:
     - `ingresar_matriz()`: Para permitir al usuario ingresar los valores de la matriz.
-    - `mostrar_matriz(matriz)`: Para mostrar la matriz en formato tabular.
     - `suma_total(matriz)`: Para calcular la suma total de los elementos.
     - `suma_filas_columnas(matriz)`: Para calcular y mostrar la suma de cada fila y columna.
     - `maximo_minimo(matriz)`: Para encontrar el número mayor y el número menor de la matriz.
